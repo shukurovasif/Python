@@ -6,7 +6,7 @@ l = len(alphabet)
 
 def cipher(text):
     
-    """Summary 
+    """Encrypt text. 
     
     :param text: Any text that needs to be encoded
     :return: A text encoded by shifting each letter forward by 4 letters"""
